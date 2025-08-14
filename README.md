@@ -43,10 +43,10 @@ cd 2D-RPG-game
 
 ## 🤝 Contributing
 Contributions are welcome!
-Please read CONTRIBUTING.md for setup, style, and pull-request guidelines.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for setup, style, and pull-request guidelines.
 
 ## 📜 Code of Conduct
-Help us keep a friendly community. See CODE_OF_CONDUCT.md.
+Help us keep a friendly community. See [CODE_OF_CONDUCT.md](CODEOFCONDUCT.md).
 🗺️ Roadmap
 - Map editor basics
 - Dialog system with branching choices
@@ -57,6 +57,8 @@ Help us keep a friendly community. See CODE_OF_CONDUCT.md.
 <!-- Keep this list short; move details to docs/ROADMAP.md later -->
 ## 🙌 Contributors
 Thanks to all contributors!
-<a href="https://github.com/AbraxasContact/2D-RPG-game
-/graphs/contributors"> <img src="https://contrib.rocks/image?repo=AbraxasContact/2D-RPG-game
-" /> </a>
+
+<a href="https://github.com/AbraxasContact/2D-RPG-game/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AbraxasContact/2D-RPG-game" />
+</a>
+

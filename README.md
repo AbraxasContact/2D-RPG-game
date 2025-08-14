@@ -31,5 +31,5 @@ A classic top-down 2D RPG written in Java. Explore mysterious lands, battle crea
 
 ### Clone
 ```bash
-git clone https://github.com/REPO_OWNER/REPO_NAME.git
+git clone https://github.com/AbraxasContact/2D-RPG-game.git
 cd REPO_NAME

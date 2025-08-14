@@ -33,3 +33,30 @@ A classic top-down 2D RPG written in Java. Explore mysterious lands, battle crea
 ```bash
 git clone https://github.com/AbraxasContact/2D-RPG-game.git
 cd 2D-RPG-game
+```
+
+## 🎮 Controls
+- Move: WASD / Arrow keys
+- Interact: E / Enter
+- Attack: Space
+- Pause/Menu: Esc
+
+## 🤝 Contributing
+Contributions are welcome!
+Please read CONTRIBUTING.md for setup, style, and pull-request guidelines.
+
+## 📜 Code of Conduct
+Help us keep a friendly community. See CODE_OF_CONDUCT.md.
+🗺️ Roadmap
+- Map editor basics
+- Dialog system with branching choices
+- Enemy AI polish
+- Boss fight
+- Save slots and settings menu
+
+<!-- Keep this list short; move details to docs/ROADMAP.md later -->
+## 🙌 Contributors
+Thanks to all contributors!
+<a href="https://github.com/AbraxasContact/2D-RPG-game
+/graphs/contributors"> <img src="https://contrib.rocks/image?repo=AbraxasContact/2D-RPG-game
+" /> </a>

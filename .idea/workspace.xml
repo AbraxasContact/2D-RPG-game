@@ -4,13 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="">
+    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added files for the door, key and chest objects">
+      <change afterPath="$PROJECT_DIR$/res/sound/BlueBoyAdventure.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/Dungeon.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/FinalBattle.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/Merchant.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/blocked.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/burning.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/chipwall.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/coin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/cursor.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/cuttree.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/dooropen.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/fanfare.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/gameover.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/hitmonster.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/levelup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/parry.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/powerup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/receivedamage.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/sleep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/speak.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/stairs.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/unlock.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Sound.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/object/OBJ_Boots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/entity/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entity/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/main/AssetSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/AssetSetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/GamePanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +57,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
+  <component name="ProjectColorInfo">{ &quot;associatedIndex&quot;: 6 }</component>
   <component name="ProjectId" id="31JhQYmTRl2zX1UrVdapbvCnsRu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,8 +69,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-music-soundEffects",
+    "git-widget-placeholder": "feature-music-and-sound",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/leotech/VenomousKnight/2D-RPG-game/res",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +80,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755253870578</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added boots object">
+      <option name="closed" value="true" />
+      <created>1755275695101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755275695101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +157,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added 3 doors, 1 chest and 1 key on the map" />
+    <MESSAGE value="Merge pull request #4 from VenomousKnight/feature-objects&#10;&#10;Added interactions with objects in the game" />
     <MESSAGE value="Added files for the door, key and chest objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files for the door, key and chest objects" />
+    <MESSAGE value="Added boots object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added boots object" />
   </component>
 </project>

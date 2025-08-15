@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added files for the door, key and chest objects">
+    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Boots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/entity/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entity/Entity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/entity/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entity/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/CollisionChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/CollisionChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/object/OBJ_Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/OBJ_Door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/object/SuperObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/object/SuperObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/AssetSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/AssetSetter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/CollisionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object/OBJ_Chest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/OBJ_Chest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object/OBJ_Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object/SuperObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +32,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="31JhQYmTRl2zX1UrVdapbvCnsRu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,7 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-objects",
+    "git-widget-placeholder": "feature-music-soundEffects",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added files for the door, key and chest objects">
-      <change beforePath="$PROJECT_DIR$/bin/entity/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entity/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Sound.java" afterDir="false" />
+    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Solved music play and stop functions">
+      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Solve-music-play-stop-bug" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +39,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Solve-music-play-stop-bug",
+    "git-widget-placeholder": "Add-boot-pickupSF",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/leotech/VenomousKnight/2D-RPG-game/res",
     "node.js.detected.package.eslint": "true",
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755275695101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Solved music play and stop functions">
+      <option name="closed" value="true" />
+      <created>1755282024930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755282024930</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Merge pull request #4 from VenomousKnight/feature-objects&#10;&#10;Added interactions with objects in the game" />
     <MESSAGE value="Added files for the door, key and chest objects" />
     <MESSAGE value="Added boots object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added boots object" />
+    <MESSAGE value="Solved music play and stop functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved music play and stop functions" />
   </component>
 </project>

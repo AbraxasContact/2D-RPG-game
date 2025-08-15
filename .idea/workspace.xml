@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/entity/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entity/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/CollisionChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/CollisionChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/GamePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/maps/world01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/maps/world01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tile/TileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tile/TileManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/maps/world01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/maps/world01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +67,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755248070332</updated>
-      <workItem from="1755248071449" duration="3399000" />
+      <workItem from="1755248071449" duration="4995000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-objects" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

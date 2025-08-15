@@ -7,7 +7,7 @@ import java.util.Objects;
 public class OBJ_Chest extends OBJ_Key {
 
     public OBJ_Chest() {
-        name = "chest";
+        name = "Chest";
         try{
             image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/objects/chest.png")));
         } catch (IOException e) {

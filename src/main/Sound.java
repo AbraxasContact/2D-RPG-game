@@ -39,10 +39,10 @@ public class Sound {
     }
 
     public void stop(){
-        clip.loop(Clip.LOOP_CONTINUOUSLY);
+        clip.stop();
     }
 
     public void loop(){
-        clip.stop();
+        clip.loop(Clip.LOOP_CONTINUOUSLY);
     }
 }

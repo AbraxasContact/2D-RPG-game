@@ -1,13 +1,19 @@
 package main;
 
+import object.OBJ_Key;
+
 import java.awt.*;
+import java.awt.image.BufferedImage;
 
 public class UI {
 
     GamePanel gp;
     Font font;
+    BufferedImage img;
     public UI(GamePanel gp){
         this.gp = gp;
+        OBJ_Key key = new OBJ_Key();
+        img = key.image;
         font = new Font("Arial", Font.BOLD, 40);
     }
 
@@ -16,6 +22,7 @@ public class UI {
 
         g2.setFont(font);
         g2.setColor(Color.white);
-        g2.drawString("Key = " + gp.player.hasKey, 70, 70);
+        g2.drawImage(img, gp.tileSize/2, gp.tileSize/2, gp.tileSize, gp.tileSize, null);
+        g2.drawString("x " + gp.player.hasKey, 74, 65);
     }
 }

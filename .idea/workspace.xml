@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added the ui for the key counter">
+    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added the key image to key the counter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature-game-UI-keyCounter" />
+        <entry key="$PROJECT_DIR$" value="feature-game-UI-keyCounter-Image" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,12 +37,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-game-UI-keyCounter-Image",
+    "git-widget-placeholder": "feature-game-UI-keyPickUp-msg",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/leotech/VenomousKnight/2D-RPG-game/res",
@@ -74,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755248070332</updated>
       <workItem from="1755248071449" duration="12117000" />
-      <workItem from="1755620511975" duration="1126000" />
+      <workItem from="1755620511975" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="Added 3 doors, 1 chest and 1 key on the map">
       <option name="closed" value="true" />
@@ -108,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755621194730</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added the key image to key the counter">
+      <option name="closed" value="true" />
+      <created>1755621783187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755621783187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature-game-UI-keyCounter-Image" />
+                        <option value="feature-game-UI-keyPickUp-msg" />
                       </list>
                     </value>
                   </entry>
@@ -143,6 +153,7 @@
     <MESSAGE value="Added files for the door, key and chest objects" />
     <MESSAGE value="Added boots object" />
     <MESSAGE value="Added the ui for the key counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the ui for the key counter" />
+    <MESSAGE value="Added the key image to key the counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the key image to key the counter" />
   </component>
 </project>

@@ -56,7 +56,7 @@ public class UI {
             textLen = (int)g2.getFontMetrics().getStringBounds(text, g2).getWidth();
             x = gp.screenWidth/2 - textLen/2;
             y = gp.screenHeight/2 + (gp.tileSize * 4);
-            g2.drawString(text, x, y);
+            g2.drawString(text, x, y)
 
             g2.setFont(arial_80B);
             g2.setColor(Color.yellow);

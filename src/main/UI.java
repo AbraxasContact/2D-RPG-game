@@ -12,7 +12,7 @@ public class UI {
     BufferedImage img;
     public boolean msgOn = false;
     public String msg = "";
-
+    public int msgCounter;
 
     public UI(GamePanel gp){
         this.gp = gp;
@@ -39,6 +39,13 @@ public class UI {
         if(msgOn){
             g2.setFont(g2.getFont().deriveFont(30F));
             g2.drawString(msg, gp.tileSize/2, gp.tileSize * 5);
+
+            msgCounter++;
+
+            if(msgCounter == 120){
+                msgCounter = 0;
+                msgOn = false;
+            }
         }
     }
 }

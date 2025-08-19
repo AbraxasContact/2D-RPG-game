@@ -157,16 +157,18 @@ public class Player extends Entity{
 						gp.playSE(3);
 						gp.obj[i] = null;
 						hasKey--;
-						System.out.println(hasKey);
-					}
+                        gp.ui.showMessage("You opened the door!");
+					}else {
+                        gp.ui.showMessage("You need a key!");
+                    }
 					break;
 				case "Boots":
-
 					gp.playSE(2);
 					speed += 1;
 					gp.obj[i] = null;
+                    gp.ui.showMessage("Speed up!");
 
-					break;
+                    break;
 			}
 		}
 	}

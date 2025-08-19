@@ -45,6 +45,7 @@ public class UI {
             if(msgCounter == 120){
                 msgCounter = 0;
                 msgOn = false;
+
             }
         }
     }

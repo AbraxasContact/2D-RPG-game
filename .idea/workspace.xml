@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added a key pickup message">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UI.java" afterDir="false" />
-    </list>
+    <list default="true" id="da8f371a-5392-453d-9756-8eb265227f6f" name="Changes" comment="Added a door interaction message and a boot pickup message" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755248070332</updated>
       <workItem from="1755248071449" duration="12117000" />
-      <workItem from="1755620511975" duration="3634000" />
+      <workItem from="1755620511975" duration="3937000" />
     </task>
     <task id="LOCAL-00001" summary="Added 3 doors, 1 chest and 1 key on the map">
       <option name="closed" value="true" />
@@ -127,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755627767857</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added a door interaction message and a boot pickup message">
+      <option name="closed" value="true" />
+      <created>1755628782328</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755628782328</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +167,7 @@
     <MESSAGE value="Added the ui for the key counter" />
     <MESSAGE value="Added the key image to key the counter" />
     <MESSAGE value="Added a key pickup message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a key pickup message" />
+    <MESSAGE value="Added a door interaction message and a boot pickup message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a door interaction message and a boot pickup message" />
   </component>
 </project>

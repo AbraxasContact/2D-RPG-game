@@ -169,7 +169,12 @@ public class Player extends Entity{
                     gp.ui.showMessage("Speed up!");
 
                     break;
-			}
+
+                case "Chest":
+                    gp.ui.levelComplete = true;
+                    gp.stopMusic();
+                    gp.playSE(4);
+            }
 		}
 	}
 	
